@@ -1,0 +1,13 @@
+{
+  "playerName":"Karthik",
+  "cards": [
+    {
+      "infantry" : 200,
+      "calvary" : 200,
+       "range" : 200,
+      "armour" : 200,
+      "skill" : 200,
+      "conquest" : 200
+    }
+  ]  
+}
